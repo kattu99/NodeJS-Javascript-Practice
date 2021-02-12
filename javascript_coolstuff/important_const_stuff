@@ -1,0 +1,2 @@
+/* Variables that are defined with a const behave like let variables, except they can't be reassigned */ 
+
